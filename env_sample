@@ -1,0 +1,21 @@
+# CONNECTION
+NODE_ENV='development'
+
+# PORT
+DEFAULT_PORT=3151
+# ------------------------------------------------------------------------
+
+# LOCAL DATABASE
+CONNECTION_LIMIT=10
+DATABASE_PORT: 3306
+LOCAL_DB_HOST=localhost
+
+# ***** DESTINY
+LOCAL_DB_USER_WRITE=root
+LOCAL_DB_PASSWORD_WRITE=M4pr0t3l
+
+# LOCAL DATABASE NAMES
+LOCAL_DB_NAME=NazanUtility
+# ------------------------------------------------------------------------
+
+# QUERIES VARIABLES
